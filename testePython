@@ -1,1 +1,3 @@
 print("Teste...")
+nome = input("Qual o seu nome? ")
+print()
